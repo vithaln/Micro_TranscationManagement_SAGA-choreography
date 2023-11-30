@@ -1,0 +1,13 @@
+package com.vitu.stock.dto;
+
+
+
+@Getter
+@Setter
+public class PaymentEvent {
+
+	private String type;
+
+	private CustomerOrder order;
+
+}

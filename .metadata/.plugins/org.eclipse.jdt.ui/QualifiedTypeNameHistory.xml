@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="com.vitu.order.dto.CustomerOrder"/>
+    <fullyQualifiedTypeName name="org.springframework.kafka.core.KafkaTemplate"/>
+    <fullyQualifiedTypeName name="com.vitu.order.repository.OrderRepository"/>
+    <fullyQualifiedTypeName name="com.vitu.order.dto.OrderEvent"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="com.vitu.order.repository.OrderRepo"/>
+    <fullyQualifiedTypeName name="com.vitu.order.entity.Order"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
+    <fullyQualifiedTypeName name="org.postgresql.Driver"/>
+    <fullyQualifiedTypeName name="org.hibernate.dialect.PostgreSQLDialect"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Column"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="com.vitu.payment.repo.PaymentRepository"/>
+    <fullyQualifiedTypeName name="com.vitu.payment.dto.PaymentEvent"/>
+    <fullyQualifiedTypeName name="com.vitu.payment.dto.OrderEvent"/>
+    <fullyQualifiedTypeName name="com.vitu.payment.dto.CustomerOrder"/>
+    <fullyQualifiedTypeName name="com.vitu.payment.entity.Payment"/>
+    <fullyQualifiedTypeName name="com.vitu.stock.dto.CustomerOrder"/>
+    <fullyQualifiedTypeName name="com.vitu.stock.dto.Stock"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="com.vitu.delivery.repository.DeliveryRepository"/>
+    <fullyQualifiedTypeName name="com.vitu.delivery.entity.dto.DeliveryEvent"/>
+    <fullyQualifiedTypeName name="com.vitu.delivery.entity.Delivery"/>
+    <fullyQualifiedTypeName name="com.vitu.delivery.entity.dto.CustomerOrder"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="com.vitu.stock.repository.StockRepository"/>
+    <fullyQualifiedTypeName name="com.vitu.stock.dto.PaymentEvent"/>
+    <fullyQualifiedTypeName name="com.vitu.stock.dto.DeliveryEvent"/>
+    <fullyQualifiedTypeName name="com.vitu.stock.entity.WareHouse"/>
+    <fullyQualifiedTypeName name="lombok.extern.slf4j.Slf4j"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+</qualifiedTypeNameHistroy>

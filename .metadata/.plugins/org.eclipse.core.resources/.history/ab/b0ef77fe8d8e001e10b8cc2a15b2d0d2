@@ -1,0 +1,10 @@
+package com.vitu.delivery.repository;
+
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.vitu.delivery.entity.Delivery;
+
+public interface DeliveryRepository extends CrudRepository<Delivery, Long> {
+
+}

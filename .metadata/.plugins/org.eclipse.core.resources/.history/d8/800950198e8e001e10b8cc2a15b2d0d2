@@ -1,0 +1,11 @@
+package com.vitu.stock.repository;
+
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.vitu.stock.entity.WareHouse;
+
+public interface StockRepository extends CrudRepository<WareHouse, Long> {
+
+	Iterable<WareHouse> findByItem(String item);
+}

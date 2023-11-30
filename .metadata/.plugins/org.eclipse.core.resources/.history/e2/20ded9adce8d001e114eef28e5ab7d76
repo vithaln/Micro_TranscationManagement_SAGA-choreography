@@ -1,0 +1,11 @@
+spring.datasource.url=jdbc:postgresql://localhost:5432/orderdb
+spring.datasource.username=postgres
+spring.datasource.password=root
+spring.datasource.driver-class-name=org.postgresql.Driver
+spring.kafka.bootstrap-servers=localhost:9092
+spring.kafka.consumer.group-id=orders-group
+spring.kafka.producer.key-serializer=org.apache.kafka.common.serialization.StringSerializer
+spring.kafka.producer.value-serializer=org.springframework.kafka.support.serializer.JsonSerializer
+spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect
+spring.jpa.hibernate.ddl-auto = update
+spring.jpa.show-sql=true
